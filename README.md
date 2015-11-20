@@ -1,1 +1,6 @@
-# plugin-video-IPTV-3STAR-MONARCA
+# plugin.video.stalker
+
+Kodi Stalker video add-on - all platforms
+
+Forum
+http://iptvtalk.org/
